@@ -16,8 +16,8 @@ This is a growing collection aimed at improving logical thinking, sharpening cod
 
 ```bash
 30_DSA_Questions/
-├── 01_problem_name.cpp
-├── 02_problem_name.cpp
+├── Ques1.cpp
+├── Ques2.cpp
 ├── ...
 └── README.md
 
@@ -37,13 +37,13 @@ Each file includes:
 Pull requests are welcome!
 If you'd like to:
 
-Add an alternate solution
+✓Add an alternate solution
 
-Suggest improvements
+✓Suggest improvements
 
-Fix a bug
+✓Fix a bug
 
-Enhance readability
+✓Enhance readability
 
 
 Just fork the repo, make your changes, and submit a PR.
