@@ -1,4 +1,4 @@
-# 💡 30 DSA Problems – C++ Implementations
+# 💡 30 DSA Problems
 
 Welcome to a focused repository of **30 essential Data Structures & Algorithms problems**, written in **C++**.  
 This is a growing collection aimed at improving logical thinking, sharpening coding skills, and preparing for coding interviews.
