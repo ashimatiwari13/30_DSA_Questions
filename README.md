@@ -20,9 +20,9 @@ Perfect for building strong DSA fundamentals, boosting problem-solving skills, a
 ## 📁 Folder Structure
 
 30_DSA_Problems/
-├── Ques1.cpp // Find the maximum element in an array
-├── Ques2.cpp // Count even and odd numbers in a list
-├── Ques3.cpp // Reverse a given string
+├── Ques1.cpp 
+├── Ques2.cpp 
+├── Ques3.cpp 
 ├── ...
 └── README.md
 
@@ -81,13 +81,6 @@ Feel free to:
 - 🧼 Clean up code or structure
 
 📌 Just fork, code, and PR!
-
----
-
-## ⏳ Project Status
-
-🚧 Uploading problems one by one — stay tuned for **daily drops!** 🌅  
-Let’s grow together in DSA mastery. 🌱
 
 ------------
 
